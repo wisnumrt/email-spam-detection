@@ -3,7 +3,7 @@
 ## Penjelasan
 Penelitian ini bertujuan untuk meningkatkan akurasi deteksi email spam menggunakan **Long Short-Term Memory (LSTM)**, salah satu jenis **Recurrent Neural Network (RNN)**. Dataset yang digunakan berasal dari **SpamAssassin corpus**, yang telah melalui tahap **text processing, tokenization, dan padding** untuk menstandarkan panjang input. Hasil pelatihan dan evaluasi model LSTM menunjukkan peningkatan akurasi deteksi hingga **99,35%**, membuktikan kemampuan LSTM dalam menangani kompleksitas teks email. Sebagai kesimpulan, LSTM terbukti efektif untuk identifikasi email spam dan dapat diadopsi sebagai solusi dalam sistem penyaringan email.  
 
-## Gambar
+## Akurasi
 ![Grafik Akurasi](https://drive.google.com/uc?export=view&id=1YWIEifPpP-RAdI7iV61MqqZR81jRQecR)
 
 ## Link Google Colab
